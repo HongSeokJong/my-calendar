@@ -1,0 +1,11 @@
+{
+    // Tab
+    "editor.tabSize": 2,
+    "editor.insertSpaces": true,
+
+    // Formatting
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.formatOnSave": true
+    }
+}
